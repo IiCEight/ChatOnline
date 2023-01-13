@@ -1,0 +1,5 @@
+mysql:
+  name : admin
+  password : 439956461
+  database : user
+  

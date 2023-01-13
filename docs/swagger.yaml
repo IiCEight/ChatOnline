@@ -1,0 +1,14 @@
+info:
+  contact: {}
+paths:
+  /:
+    get:
+      responses:
+        "200":
+          description: message"}
+          schema:
+            type: string
+      summary: 主页
+      tags:
+      - 首页
+swagger: "2.0"
